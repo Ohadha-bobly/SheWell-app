@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "577390896157",
+    "project_id": "shewell-acc29",
+    "storage_bucket": "shewell-acc29.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577390896157:android:efaad2c8d1709313b552f4",
+        "android_client_info": {
+          "package_name": "Shewell.app_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIrvq2mB2TGPMJ4ArGXM6hp0JJEqrQmTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577390896157:android:563394bd8b350363b552f4",
+        "android_client_info": {
+          "package_name": "com.example.shewell_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIrvq2mB2TGPMJ4ArGXM6hp0JJEqrQmTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

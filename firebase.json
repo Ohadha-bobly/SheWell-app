@@ -1,0 +1,27 @@
+{
+  "flutter": {
+    "platforms": {
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "shewell-acc29",
+          "configurations": {
+            "android": "1:577390896157:android:563394bd8b350363b552f4",
+            "ios": "1:577390896157:ios:cbcfd5ad276f8686b552f4",
+            "web": "1:577390896157:web:8798db25ec4f1c45b552f4",
+            "windows": "1:577390896157:web:ea285a427379a7f1b552f4"
+          }
+        }
+      },
+      "android": {
+        "default": {
+          "projectId": "shewell-acc29",
+          "appId": "1:577390896157:android:563394bd8b350363b552f4",
+          "fileOutput": "android/app/google-services.json"
+        }
+      }
+    }
+  },
+  "storage": {
+    "rules": "storage.rules"
+  }
+}
