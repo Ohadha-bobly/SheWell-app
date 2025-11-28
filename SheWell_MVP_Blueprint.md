@@ -5,7 +5,7 @@
 ## 1️⃣ App Overview
 
 Goal:
-Help women track mental and physical health, access self-care resources, and ask health-related questions via an AI-powered chatbot — now enhanced with user authentication and Firebase integration.
+Help women track mental and physical health, access self-care resources, and ask health-related questions via an AI-powered chatbot, now enhanced with user authentication and Firebase integration.
 
 Target SDGs:
 - SDG 3: Good Health and Well-being
@@ -37,7 +37,7 @@ D. Notifications / Reminders
 - Can extend with Firebase Cloud Messaging (FCM)
 
 E. Authentication 
-- Firebase Authentication (Email/Password, optional Google Sign-In)
+- Supabase Authentication (Email/Password, optional Google Sign-In)
 - Secure login and signup flow
 - User data (mood logs, chat history) tied to their Firebase UID
 - Simple Profile page to view account info and logout
@@ -51,7 +51,7 @@ Login | User sign-in | TextField, ElevatedButton
 Signup | Create new account | TextField, ElevatedButton
 Home / Tracker | Track wellness | Card, DropdownButton, ElevatedButton
 Chatbot | Ask AI | ListView, TextField, ElevatedButton
-Resources | Clinics, hotlines, NGOs | ListView, Card, ListTile
+community | Clinics, hotlines, NGOs | ListView, Card, ListTile
 Profile / Settings | Manage notifications, logout | SwitchListTile, ListTile, ElevatedButton
 
 Navigation:
